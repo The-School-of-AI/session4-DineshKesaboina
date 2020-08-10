@@ -134,3 +134,28 @@ This test checks if the following short circuiting condition is implemented corr
    ```test_complex``` : 
    This function check if the square root of a negative imaginary number returns a complex number. 
 
+## Final Output from Github Actions 
+
+test_session4.py::test_readme_exists PASSED                              [  3%]
+test_session4.py::test_readme_contents PASSED                            [  6%]
+test_session4.py::test_readme_proper_description PASSED                  [  9%]
+test_session4.py::test_readme_file_for_formatting PASSED                 [ 12%]
+test_session4.py::test_repr PASSED                                       [ 15%]
+test_session4.py::test_fourspace PASSED                                  [ 18%]
+test_session4.py::test_mandatory1 PASSED                                 [ 21%]
+test_session4.py::test_mandatory2 PASSED                                 [ 25%]
+test_session4.py::test_mandatory3 PASSED                                 [ 28%]
+test_session4.py::test_mandatory4 PASSED                                 [ 31%]
+test_session4.py::test_mandatory5 PASSED                                 [ 34%]
+test_session4.py::test_add PASSED                                        [ 37%]
+test_session4.py::test_mul PASSED                                        [ 40%]
+test_session4.py::test_logical_and PASSED                                [ 43%]
+test_session4.py::test_logical_or PASSED                                 [ 46%]
+test_session4.py::test_str PASSED                                        [ 50%]
+test_session4.py::test_equality PASSED                                   [ 53%]
+test_session4.py::test_float PASSED                                      [ 56%]
+test_session4.py::test_ge PASSED                                         [ 59%]
+test_session4.py::test_gt PASSED                                         [ 62%]
+test_session4.py::test_invertsign PASSED                                 [ 65%]
+test_session4.py::test_le PASSED                                         [ 68%]
+test_session4.py::test_lt PASSED                                         [ 71%]

@@ -136,26 +136,68 @@ This test checks if the following short circuiting condition is implemented corr
 
 ## Final Output from Github Actions 
 
-test_session4.py::test_readme_exists PASSED                              [  3%]
+```test_session4.py::test_readme_exists PASSED                              [  3%]
+
 test_session4.py::test_readme_contents PASSED                            [  6%]
+
 test_session4.py::test_readme_proper_description PASSED                  [  9%]
+
 test_session4.py::test_readme_file_for_formatting PASSED                 [ 12%]
+
 test_session4.py::test_repr PASSED                                       [ 15%]
+
 test_session4.py::test_fourspace PASSED                                  [ 18%]
+
 test_session4.py::test_mandatory1 PASSED                                 [ 21%]
+
 test_session4.py::test_mandatory2 PASSED                                 [ 25%]
+
 test_session4.py::test_mandatory3 PASSED                                 [ 28%]
+
 test_session4.py::test_mandatory4 PASSED                                 [ 31%]
+
 test_session4.py::test_mandatory5 PASSED                                 [ 34%]
+
 test_session4.py::test_add PASSED                                        [ 37%]
+
 test_session4.py::test_mul PASSED                                        [ 40%]
+
 test_session4.py::test_logical_and PASSED                                [ 43%]
+
 test_session4.py::test_logical_or PASSED                                 [ 46%]
+
 test_session4.py::test_str PASSED                                        [ 50%]
+
 test_session4.py::test_equality PASSED                                   [ 53%]
+
 test_session4.py::test_float PASSED                                      [ 56%]
+
 test_session4.py::test_ge PASSED                                         [ 59%]
+
 test_session4.py::test_gt PASSED                                         [ 62%]
+
 test_session4.py::test_invertsign PASSED                                 [ 65%]
+
 test_session4.py::test_le PASSED                                         [ 68%]
+
 test_session4.py::test_lt PASSED                                         [ 71%]
+
+test_session4.py::test_bool PASSED                                       [ 75%]
+
+test_session4.py::test_add_with_exceptions PASSED                        [ 78%]
+
+test_session4.py::test_eq_with_exceptions PASSED                         [ 81%]
+
+test_session4.py::test_ge_with_exceptions PASSED                         [ 84%]
+
+test_session4.py::test_gt_with_exceptions PASSED                         [ 87%]
+
+test_session4.py::test_le_with_exceptions PASSED                         [ 90%]
+
+test_session4.py::test_lt_with_exceptions PASSED                         [ 93%]
+
+test_session4.py::test_mul_with_exceptions PASSED                        [ 96%]
+
+test_session4.py::test_complex PASSED                                    [100%]
+
+============================== 32 passed in 4.31s ==============================```
